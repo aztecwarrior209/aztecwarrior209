@@ -18,3 +18,4 @@ Improve logging
 Add documentation
 Improve performance
 Fix typo in README
+Add test cases
