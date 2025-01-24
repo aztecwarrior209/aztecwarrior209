@@ -27,3 +27,4 @@ Polish UI layout
 Improve logging
 Fix typo in README
 Fix typo in README
+Improve performance
