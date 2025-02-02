@@ -20,3 +20,4 @@ Improve performance
 Fix typo in README
 Add test cases
 Fix typo in README
+Refactor core logic
