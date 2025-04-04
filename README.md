@@ -28,3 +28,4 @@ Improve logging
 Fix typo in README
 Fix typo in README
 Improve performance
+Add test cases
