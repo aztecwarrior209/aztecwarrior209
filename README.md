@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Improve logging
 Add documentation
 Improve performance
+Fix typo in README
