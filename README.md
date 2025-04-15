@@ -24,3 +24,4 @@ Refactor core logic
 Update configuration
 Remove unused imports
 Polish UI layout
+Improve logging
