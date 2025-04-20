@@ -25,3 +25,4 @@ Update configuration
 Remove unused imports
 Polish UI layout
 Improve logging
+Fix typo in README
