@@ -23,3 +23,4 @@ Fix typo in README
 Refactor core logic
 Update configuration
 Remove unused imports
+Polish UI layout
